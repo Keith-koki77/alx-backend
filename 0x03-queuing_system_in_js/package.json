@@ -1,0 +1,19 @@
+{
+  "name": "queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec babel-node --presets @babel/preset-env"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.23.9"
+  }
+}
